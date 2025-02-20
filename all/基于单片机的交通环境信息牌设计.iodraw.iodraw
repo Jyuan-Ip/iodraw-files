@@ -10,7 +10,7 @@
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-2" value="温湿度气压传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Us-yJ1grkbFjvl3yPHBp-3" value="气压检测传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-3" value="噪声检测传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-4" value="红外模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
