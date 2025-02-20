@@ -27,14 +27,14 @@
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="659" y="535" as="sourcePoint" />
-            <mxPoint x="719" y="535" as="targetPoint" />
+            <mxPoint x="410" y="420.8" as="sourcePoint" />
+            <mxPoint x="470" y="420.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489" y="546" as="sourcePoint" />
-            <mxPoint x="549" y="546" as="targetPoint" />
+            <mxPoint x="410" y="345.8" as="sourcePoint" />
+            <mxPoint x="470" y="345.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-11" value="红外模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="495.8" as="sourcePoint" />
+            <mxPoint x="470" y="495.8" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
