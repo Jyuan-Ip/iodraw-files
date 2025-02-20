@@ -14,7 +14,7 @@
           <mxGeometry x="290" y="316" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-4" value="红外模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="396" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-5" value="显示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="340" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-11" value="红外模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="476" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="466" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
