@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="369.65999999999997" as="sourcePoint" />
-            <mxPoint x="470" y="369.65999999999997" as="targetPoint" />
+            <mxPoint x="410" y="345.65999999999997" as="sourcePoint" />
+            <mxPoint x="470" y="345.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -42,6 +42,9 @@
             <mxPoint x="590" y="369.65999999999997" as="sourcePoint" />
             <mxPoint x="650" y="369.65999999999997" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-11" value="红外模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
