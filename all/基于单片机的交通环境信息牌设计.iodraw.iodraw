@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Us-yJ1grkbFjvl3yPHBp-11" value="红外模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277" y="551" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="476" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
