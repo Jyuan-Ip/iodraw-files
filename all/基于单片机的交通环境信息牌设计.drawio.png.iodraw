@@ -1,0 +1,58 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="kNrasHPWVOsIs5DF4PgB">
+    <mxGraphModel dx="1454" dy="849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-1" value="主控制器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="240" width="120" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-2" value="温湿度气压传感器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-3" value="噪声检测传感器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-4" value="红外模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-5" value="显示模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="420.8" as="sourcePoint" />
+            <mxPoint x="470" y="420.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="345.8" as="sourcePoint" />
+            <mxPoint x="470" y="345.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="369.65999999999997" as="sourcePoint" />
+            <mxPoint x="650" y="369.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-11" value="按键" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="495.8" as="sourcePoint" />
+            <mxPoint x="470" y="495.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Us-yJ1grkbFjvl3yPHBp-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="269.8" as="sourcePoint" />
+            <mxPoint x="470" y="269.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
