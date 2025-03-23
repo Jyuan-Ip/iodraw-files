@@ -42,7 +42,7 @@
         </mxCell>
         <mxCell id="Iow_1I0Z8gjrZOeGHpdR-11" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Iow_1I0Z8gjrZOeGHpdR-10">
           <mxGeometry x="-0.2079" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Iow_1I0Z8gjrZOeGHpdR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12">
@@ -51,8 +51,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="是否按下左按键" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="620" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iow_1I0Z8gjrZOeGHpdR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="Iow_1I0Z8gjrZOeGHpdR-15">
+        <mxCell id="Iow_1I0Z8gjrZOeGHpdR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380" y="720" />
               <mxPoint x="220" y="720" />
