@@ -92,11 +92,8 @@
         <mxCell id="Iow_1I0Z8gjrZOeGHpdR-16" value="切换到页面二" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iow_1I0Z8gjrZOeGHpdR-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="110" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Iow_1I0Z8gjrZOeGHpdR-21" value="" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="320" width="80" height="80" as="geometry" />
+        <mxCell id="Iow_1I0Z8gjrZOeGHpdR-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="130" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
