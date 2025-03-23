@@ -49,11 +49,6 @@
         <mxCell id="Iow_1I0Z8gjrZOeGHpdR-0" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Iow_1I0Z8gjrZOeGHpdR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Iow_1I0Z8gjrZOeGHpdR-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Iow_1I0Z8gjrZOeGHpdR-1" value="车辆计数值+1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="540" width="120" height="40" as="geometry" />
         </mxCell>
